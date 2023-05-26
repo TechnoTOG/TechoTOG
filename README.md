@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AEJS879
+- 👋 Hi, I’m @Erick Xavier
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java in my school
 - 💞️ I’m looking to collaborate on Java Programming
